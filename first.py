@@ -48,7 +48,7 @@ alabel.place(x=0, y=0)
 
 
 login_frame = ttk.Frame(root)
-login_frame.place(x=300, y=100)
+login_frame.place(x=350, y=100)
 
 # for bigger image which tells to login
 img2 = ImageTk.PhotoImage(
